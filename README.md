@@ -6,6 +6,8 @@
 
 <img width="650" height="360" alt="изображение" src="https://github.com/user-attachments/assets/16f45a66-5fe7-4ed6-8429-16cb04348345" />
 
+DEMO VIDEO: https://youtu.be/Y1L_bLX8upo?si=lUJhyx5_4YY8WU8R
+
 ---
 
 ## ✨ Что показывает
